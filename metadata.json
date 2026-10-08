@@ -1,0 +1,8 @@
+{
+  "name": "TrendScope — AI Trending Niche Finder",
+  "description": "Discover high-potential niche opportunities validated with real Google Trends search data via SerpApi and AI market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
